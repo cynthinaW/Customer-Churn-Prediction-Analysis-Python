@@ -34,6 +34,6 @@
 •	ROC_AUC Score
 
 
-### Tunning:
+### Model Tuning:
 
 ### Conlusions:
