@@ -21,17 +21,17 @@
 ### Feature Engineering:
 
 ### Modeling:
-4 models will be considered during this step<br/>
+4 models were considered during this step<br/>
 •	Logistic Regression<br/>
 • Random Forest<br/>
 • Decision Tree <br/>
 • XG Boost
 
 ### Evaluation:
-4 Metrics including Precision, Recall, F1-Score, Accuracy<br/>
-Confusion Matrix<br/>
-ROC Curve<br/>
-ROC_AUC Score
+•	4 Metrics including Precision, Recall, F1-Score, Accuracy<br/>
+•	Confusion Matrix<br/>
+•	ROC Curve<br/>
+•	ROC_AUC Score
 
 
 ### Tunning:
