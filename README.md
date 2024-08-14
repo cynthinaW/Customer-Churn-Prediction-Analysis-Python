@@ -13,8 +13,8 @@
 •	Account Variables: how long they’ve been a customer, contract type, payment method, paperless billing, monthly and total charges<br/>
 •	Sign-Up Services: phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
 
-### Data Cleansing:
-•	Removed missing values
+### Data Preprocessing:
+•Preprocessed data by plotting, removing duplicates, handling missing values, to prepare high-quality, reliable data for analysis
 
 ### Data Visualization:
 
