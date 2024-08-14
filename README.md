@@ -34,6 +34,7 @@
 •	ROC_AUC Score
 
 
-### Model Tuning:
+### Model Tuning and Results:
+•	Optimized hyperparameters through Random Search and Grid Search techniques to increase model performance, which ultimately achieved 91% accuracy and 85% recall  
 
 ### Conlusions:
